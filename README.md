@@ -1,2 +1,5 @@
-# Simulation-and-Analysis-of-Dual-Active-Bridge-DAB-Converter
-Developed a closed-loop DAB converter model in MATLAB/Simulink with Single phase-shift control. Analyzed output-voltage regulation and transient response under varying input voltage and load conditions.
+# Dual-Loop Control of a Synchronous Buck Converter Using Type-II Compensators 
+Designed and simulated a 250 W synchronous Buck converter with 24 V input and 12 V output using cascaded
+current and voltage control loops.
+Developed Type-II compensators through small-signal modeling and achieved a 60° phase margin for closed-loop
+voltage regulation.
